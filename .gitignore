@@ -1,0 +1,6 @@
+# Vagrant
+.vagrant/
+
+# OS specific trash
+.DS_Store
+Thumbs.db
